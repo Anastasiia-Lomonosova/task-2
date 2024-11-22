@@ -3,7 +3,10 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-idea/
+.idea/
+.idea
+
+task 2/
 .iml
 
 ### Eclipse ###
